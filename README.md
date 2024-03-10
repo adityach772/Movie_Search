@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Movie_Search
 Movie Search React Application 
 =======
