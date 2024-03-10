@@ -25,7 +25,7 @@ const App = () => {
     }
    }
    useEffect( () => {
-    searchMovies("Mission Impossible");
+    searchMovies("Disney");
    },[]); //only want to call after start 
 
     return (
